@@ -176,7 +176,7 @@ Bounds for which the level of available verification is currently at minimal lev
 - [47](https://teorth.github.io/optimizationproblems/constants/47a.html) **improved upper bound:** $C_{47} \leq 3.879$ by [Y. Lin](https://github.com/CoolRmal/centered-maximal-constant), 20 Sep 2026, formalized in Lean 4.
 - [45](https://teorth.github.io/optimizationproblems/constants/45a.html) **presentation:** the printed certificate is Griego's $0.490249407811155$, not Yoo's record $0.490180063290061$.
 - [10c](https://teorth.github.io/optimizationproblems/constants/10c.html) **upper bound correction:** $C_{10c}\le 4.1$ by [Pesenti–Vladu](https://arxiv.org/abs/2211.05509) v2 (14 Apr 2026), replacing the withdrawn $3\sqrt{3/2}$ constant in Theorem 4.5.
-- [65](https://teorth.github.io/optimizationproblems/constants/65a.html) **improved upper bound:** $C\_{65} \leq 3.99$ by [E. Naslund](https://hexagonmath.org/2610.00018v1), 2 Oct 2026. The [Palomar-registered Lean formalization](https://palomar-registry.org/entry.html?id=PALOMAR-2026-10-01-000020&version=1) covers the graded near-density lemma and the certificate checker, not the bound itself; [paper and formalization](https://github.com/enaslund/linniks-constant-3.99).
+- [65](https://teorth.github.io/optimizationproblems/constants/65a.html) **improved upper bound:** $C\_{65} \leq 3.99$ by [E. Naslund](https://hexagonmath.org/2610.00018v1), 2 Oct 2026, with public computational certificates and a partial Lean formalization.
 
 ## Maintainers
 
